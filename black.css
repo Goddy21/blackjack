@@ -1,0 +1,41 @@
+body {
+    background-image: url('back3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 7vw;
+    color: green;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 5vw;
+    color: goldenrod;
+}
+
+button {
+    font-size: 7vw;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: goldenrod;
+    color: green;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+p {
+    font-size: 3vw;
+    color: white;
+    font-weight: bold;
+}
+
+#message-el {
+    font-size: 4vw;
+    font-weight: bold;
+}
